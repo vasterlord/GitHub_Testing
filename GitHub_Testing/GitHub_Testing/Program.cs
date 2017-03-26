@@ -10,7 +10,7 @@ namespace GitHub_Testing
     {
         static void Main(string[] args)
         {
-            Person newPersonDay = new Person();
+            Person newPersonMy = new Person();
         }
     }
 }
