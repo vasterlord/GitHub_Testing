@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 namespace GitHub_Testing
 {
     class Person
-    {
+    { 
+        public string Name { get; set; } 
+        public string Address { get; set; }
+
     }
 }
