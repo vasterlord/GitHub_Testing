@@ -12,6 +12,8 @@ namespace GitHub_Testing
         {
             Person newPersonMy = new Person();
             newPersonMy.FirsName = "Yulian";
+            newPersonMy.LastName = "Mylian";
+            newPersonMy.Address = "Lviv, Shevchenka street 370/13";
         }
     }
 }
