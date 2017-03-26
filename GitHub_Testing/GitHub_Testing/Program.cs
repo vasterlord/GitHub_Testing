@@ -11,6 +11,7 @@ namespace GitHub_Testing
         static void Main(string[] args)
         {
             Person newPersonMy = new Person();
+            newPersonMy.FirsName = "Yulian";
         }
     }
 }
